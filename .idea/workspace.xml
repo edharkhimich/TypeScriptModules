@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91e2887c-105e-4711-b4fa-a635fcb3b9ed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/scripts/module_classes_Interfaces/demo_defining_classes/car.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/module_classes_Interfaces/demo_defining_classes/demo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/module_classes_Interfaces/demo_type_extending/auto.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/module_classes_Interfaces/demo_type_extending/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/module_classes_Interfaces/demo_using_interfaces/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/module_classes_Interfaces/demo_using_interfaces/test.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -75,96 +73,46 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="2" />
+          <entry key="html" value="4" />
           <entry key="js" value="1" />
-          <entry key="ts" value="3" />
+          <entry key="ts" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="2" />
+          <entry key="HTML" value="4" />
           <entry key="JavaScript" value="1" />
-          <entry key="TypeScript" value="3" />
+          <entry key="TypeScript" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="ts" value="3103" />
+          <entry key="ts" value="4177" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="TypeScript" value="3103" />
+          <entry key="TypeScript" value="4177" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scripts/module_classes_Interfaces/demo_defining_classes/demo.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/scripts/module_classes_Interfaces/demo_type_extending/auto.ts">
+        <entry file="file://$PROJECT_DIR$/scripts/module_classes_Interfaces/demo_using_interfaces/test.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2184">
-              <caret line="84" column="1" selection-start-line="84" selection-start-column="1" selection-end-line="84" selection-end-column="1" />
+            <state relative-caret-position="289">
+              <caret line="116" column="50" selection-start-line="116" selection-start-column="50" selection-end-line="116" selection-end-column="50" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scripts/module_classes_Interfaces/demo_type_extending/index.html">
+        <entry file="file://$PROJECT_DIR$/scripts/module_classes_Interfaces/demo_using_interfaces/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scripts/module_classes_Interfaces/demo_type_extending/auto.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="81" column="14" selection-start-line="81" selection-start-column="14" selection-end-line="81" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scripts/grammar.ts">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scripts/module_classes_Interfaces/difining_constructors/Car.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="46" selection-start-line="46" selection-end-line="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scripts/module_classes_Interfaces/demo_defining_classes/car.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="780">
-              <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+            <state relative-caret-position="234">
+              <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -201,6 +149,8 @@
         <option value="$PROJECT_DIR$/scripts/module_classes_Interfaces/demo_defining_classes/car.ts" />
         <option value="$PROJECT_DIR$/scripts/module_classes_Interfaces/demo_type_extending/index.html" />
         <option value="$PROJECT_DIR$/scripts/module_classes_Interfaces/demo_type_extending/auto.ts" />
+        <option value="$PROJECT_DIR$/scripts/module_classes_Interfaces/demo_using_interfaces/index.html" />
+        <option value="$PROJECT_DIR$/scripts/module_classes_Interfaces/demo_using_interfaces/test.ts" />
       </list>
     </option>
   </component>
@@ -217,9 +167,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="938" />
+    <option name="x" value="828" />
     <option name="y" value="68" />
-    <option name="width" value="655" />
+    <option name="width" value="765" />
     <option name="height" value="815" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -258,15 +208,15 @@
               <item name="TypeScriptExamples" type="462c0819:PsiDirectoryNode" />
               <item name="scripts" type="462c0819:PsiDirectoryNode" />
               <item name="module_classes_Interfaces" type="462c0819:PsiDirectoryNode" />
-              <item name="demo_type_extending" type="462c0819:PsiDirectoryNode" />
+              <item name="demo_using_interfaces" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TypeScriptExamples" type="b2602c69:ProjectViewProjectNode" />
               <item name="TypeScriptExamples" type="462c0819:PsiDirectoryNode" />
               <item name="scripts" type="462c0819:PsiDirectoryNode" />
               <item name="module_classes_Interfaces" type="462c0819:PsiDirectoryNode" />
-              <item name="demo_type_extending" type="462c0819:PsiDirectoryNode" />
-              <item name="auto.ts" type="620a8d5e:NestingTreeNode" />
+              <item name="demo_using_interfaces" type="462c0819:PsiDirectoryNode" />
+              <item name="test.ts" type="620a8d5e:NestingTreeNode" />
             </path>
           </expand>
           <select />
@@ -327,12 +277,12 @@
       <workItem from="1539054986187" duration="130000" />
       <workItem from="1539055240259" duration="16384000" />
       <workItem from="1539200688727" duration="1922000" />
-      <workItem from="1539221080658" duration="9282000" />
+      <workItem from="1539221080658" duration="13803000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33580000" />
+    <option name="totallyTimeSpent" value="38101000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -344,10 +294,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="938" y="68" width="655" height="815" extended-state="0" />
+    <frame x="828" y="68" width="765" height="815" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.42088607" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.42048517" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -373,6 +323,7 @@
       <list>
         <option value="$PROJECT_DIR$/scripts/grammar.js" />
         <option value="$PROJECT_DIR$/scripts/module_classes_Interfaces/demo_type_extending/auto.js" />
+        <option value="$PROJECT_DIR$/scripts/module_classes_Interfaces/demo_using_interfaces/test.js" />
       </list>
     </option>
   </component>
@@ -394,17 +345,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scripts/module_classes_Interfaces/demo_defining_classes/car.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="780">
           <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/module_classes_Interfaces/demo_type_extending/auto.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2184">
+          <caret line="84" column="1" selection-start-line="84" selection-start-column="1" selection-end-line="84" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -415,10 +366,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/scripts/module_classes_Interfaces/demo_type_extending/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
@@ -429,10 +387,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/module_classes_Interfaces/demo_type_extending/auto.ts">
+    <entry file="file://$PROJECT_DIR$/scripts/module_classes_Interfaces/demo_using_interfaces/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2184">
-          <caret line="84" column="1" selection-start-line="84" selection-start-column="1" selection-end-line="84" selection-end-column="1" />
+        <state relative-caret-position="234">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/module_classes_Interfaces/demo_using_interfaces/test.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="116" column="50" selection-start-line="116" selection-start-column="50" selection-end-line="116" selection-end-column="50" />
         </state>
       </provider>
     </entry>
